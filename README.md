@@ -186,6 +186,7 @@ The dominant mode (lowest ( f_c )) in rectangular waveguides is **TE₁₀**.
 Rectangular waveguides guide electromagnetic energy efficiently by confining electric and magnetic fields within a hollow metallic structure.
 By applying Maxwell’s equations, the field components and propagation characteristics for **TE and TM modes** can be derived.
 Understanding these field equations helps engineers design **microwave communication systems**, **radar components**, and **high-frequency transmission networks** with optimal performance and minimal loss.
+
 <img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/211158eb-1e96-40e4-a116-c43fcc3ed236" />
 
 
