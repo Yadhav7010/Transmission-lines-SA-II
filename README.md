@@ -125,7 +125,9 @@ H_x = -\frac{j\beta}{k_c^2} \frac{\partial H_z}{\partial x}, \quad
 H_y = -\frac{j\beta}{k_c^2} \frac{\partial H_z}{\partial y}
 ]
 where ( k_c^2 = \left(\frac{m\pi}{a}\right)^2 + \left(\frac{n\pi}{b}\right)^2 ) is the **cutoff wavenumber**.
-<img width="1223" height="2560" alt="image" src="https://github.com/user-attachments/assets/54a72f28-44b8-434c-82fd-10a9ebe109cc" />
+
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/6ba9452c-7284-486b-b6dd-69471afb8878" />
+
 
 
 ---
