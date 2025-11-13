@@ -1,4 +1,4 @@
-## **Assignment Topic: Field Equations in Rectangular Waveguide**
+## **Field Equations in Rectangular Waveguide**
 
 ---
 
