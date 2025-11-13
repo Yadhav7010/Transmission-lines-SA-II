@@ -9,7 +9,6 @@ To derive and study the **field equations** governing electromagnetic wave propa
 <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/9b8ac329-f597-45fb-8459-4fb946e81c34" />
 
 ---
-
 ### **2. Apparatus / Requirements**
 
 * Knowledge of **Maxwell’s equations** in phasor form
@@ -17,10 +16,7 @@ To derive and study the **field equations** governing electromagnetic wave propa
 * Geometry of a **rectangular waveguide** (dimensions ( a ) × ( b ))
 * Mathematical tools for partial differential equations
 * <img width="653" height="414" alt="image" src="https://github.com/user-attachments/assets/9bcaa5ca-c692-411f-a2f9-c229bfd93850" />
-
-
 ---
-
 ### **3. Theory**
 
 #### **a) Introduction**
@@ -29,12 +25,7 @@ A **waveguide** is a hollow metallic structure that guides electromagnetic waves
 The **rectangular waveguide** is one of the simplest and most widely used types in microwave and radar systems.
 It supports electromagnetic waves above a certain **cutoff frequency**, allowing efficient transmission with minimal loss.
 <img width="433" height="241" alt="image" src="https://github.com/user-attachments/assets/b0e5ab0c-76bc-459a-abd5-e99f535624f6" />
-
-
 ---
-
-
-
 #### **b) Geometry**
 
 Consider a rectangular waveguide of dimensions:
@@ -46,7 +37,6 @@ and the wave propagates in the **z-direction**.
 
 
 ---
-
 #### **c) Maxwell’s Equations (in Phasor Form)**
 
 [
@@ -67,8 +57,6 @@ These equations describe how electric (( \mathbf{E} )) and magnetic (( \mathbf{H
 
 
 ---
-
-
 #### **d) Wave Equation for Fields**
 
 Applying the curl operator to Maxwell’s equations leads to the **vector wave equations**:
@@ -83,7 +71,6 @@ where ( k = \omega \sqrt{\mu\epsilon} ) is the **wave number** in the medium.
 
 
 ---
-
 #### **e) Field Components**
 
 The electromagnetic fields inside the waveguide can be expressed in terms of **transverse (x, y)** and **longitudinal (z)** components:
@@ -99,7 +86,6 @@ Depending on whether ( E_z ) or ( H_z ) is zero, we have two types of modes:
 
 
 ---
-
 ### **4. Field Equations for TE Modes**
 
 For **TE modes**, since ( E_z = 0 ), we derive from Maxwell’s equations:
@@ -133,7 +119,6 @@ where ( k_c^2 = \left(\frac{m\pi}{a}\right)^2 + \left(\frac{n\pi}{b}\right)^2 ) 
 
 
 ---
-
 ### **5. Field Equations for TM Modes**
 
 For **TM modes**, since ( H_z = 0 ), we have:
@@ -159,7 +144,6 @@ E_y = -\frac{j\beta}{k_c^2} \frac{\partial E_z}{\partial y}
 
 
 ---
-
 ### **6. Cutoff Frequency**
 
 For a given mode ( (m, n) ):
@@ -174,7 +158,6 @@ The dominant mode (lowest ( f_c )) in rectangular waveguides is **TE₁₀**.
 
 
 ---
-
 ### **7. Applications**
 
 * Used in **microwave transmitters and radar systems**.
@@ -185,7 +168,6 @@ The dominant mode (lowest ( f_c )) in rectangular waveguides is **TE₁₀**.
 
 
 ---
-
 ### **8. Conclusion**
 
 Rectangular waveguides guide electromagnetic energy efficiently by confining electric and magnetic fields within a hollow metallic structure.
