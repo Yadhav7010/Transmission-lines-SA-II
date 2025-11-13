@@ -16,7 +16,8 @@ To derive and study the **field equations** governing electromagnetic wave propa
 * Basic understanding of **boundary conditions** for conductors and dielectrics
 * Geometry of a **rectangular waveguide** (dimensions ( a ) × ( b ))
 * Mathematical tools for partial differential equations
-* <img width="1320" height="505" alt="image" src="https://github.com/user-attachments/assets/d63d0818-efac-49e8-9d89-e71d5812dba7" />
+* <img width="653" height="414" alt="image" src="https://github.com/user-attachments/assets/9bcaa5ca-c692-411f-a2f9-c229bfd93850" />
+
 
 ---
 
