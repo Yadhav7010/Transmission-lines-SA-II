@@ -165,8 +165,9 @@ f_c = \frac{1}{2\pi\sqrt{\mu\epsilon}} \sqrt{\left(\frac{m\pi}{a}\right)^2 + \le
 
 Only frequencies **above ( f_c )** will propagate through the waveguide.
 The dominant mode (lowest ( f_c )) in rectangular waveguides is **TE₁₀**.
+<img width="363" height="139" alt="image" src="https://github.com/user-attachments/assets/e9336088-0c0c-48ec-8f6b-faa9993ac717" />
 
-<img width="1320" height="505" alt="image" src="https://github.com/user-attachments/assets/e3938ab4-9d85-42b2-be0d-036901f074a8" />
+
 
 ---
 
