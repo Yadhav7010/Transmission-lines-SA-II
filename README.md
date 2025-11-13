@@ -33,6 +33,8 @@ It supports electromagnetic waves above a certain **cutoff frequency**, allowing
 
 ---
 
+
+
 #### **b) Geometry**
 
 Consider a rectangular waveguide of dimensions:
